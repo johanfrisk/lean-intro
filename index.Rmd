@@ -145,11 +145,151 @@ with reality. We have the impossible dream that plans are time tables.</small>
 
 ***
 
-<section>
-    <h2>This video will use up the remaining space on the slide</h2>
-    <video class="stretch" src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
-</section>
+### Learning from three Chinese examples
+
+1. What is the key learning from [this 15 day hotel?]
+(https://www.youtube.com/watch?v=Iw-y13L5nlA)
+<br><br>
+1. and from this [bridge in Beijing?]
+(https://www.youtube.com/watch?v=vz_j_BEkVCQ)
+<br><br>
+1. or this [railroad construction]
+(https://www.youtube.com/watch?v=X6bQIEJ5eIM)
+<br><br>
+[<img height="150" src="assets/img/hotel.png">]
+(https://www.youtube.com/watch?v=Iw-y13L5nlA)
+[<img height="150" src="assets/img/bridge.png">]
+(https://www.youtube.com/watch?v=vz_j_BEkVCQ)
+[<img height="150" src="assets/img/train.png">]
+(https://www.youtube.com/watch?v=X6bQIEJ5eIM)
 
 ***
 
+<img height="600" src="assets/img/even_flow.png">
 
+***
+
+<img height="600" src="assets/img/even_traffic.png">
+##### there is an optimum traffic intensity... what is yours?
+
+***
+
+##### let's move on to something more exiting...
+<img height="600" src="assets/img/shining.jpg">
+
+---&vertical
+
+## Lean/Agile projekt planning
+<small>
+**spoiler: this is balance act between surprise and peace of mind!**
+<br>
+doing something new is about learning... as fast as possible :-)
+</small>
+
+<img height="300" src="assets/img/keynes.png">
+
+***
+
+<img height="600" src="assets/img/flow_prob.png">
+
+***
+
+<img height="400" src="assets/img/galton.png">
+##### independent events have a 'normal' distribution
+
+***
+
+[<img height="600" src="assets/img/flips.png">]
+(https://johanfrisk.shinyapps.io/shiny-coin/)
+##### even a random walk... is 'normal'...
+
+***
+
+<img height="600" src="assets/img/dev_flow.png">
+##### different size and speed of workpackages... and you have to fail to learn!
+
+***
+
+## The solution    :-)
+- Planning board: Overview, to do, doing, done
+- Clear roles: Team, Product owner and 'scrum master'
+- Common backlog with user stories
+- Daily standup
+- Pull system with 'work in progress limits'
+- Iterative process in 2-3 week sprints
+- Planning before sprint and retrospective after
+<br><br>
+<img height="150" src="assets/img/esker.png">
+
+---&vertical
+
+## Let's dive deeper
+<img height="500" src="assets/img/flow_agenda.png">
+
+***
+
+### Value Stream Mapping
+
+<quote>A value stream is all activities, both value adding and non-value 
+adding, needed to refine and produce a product or service.</quote>
+<br><br>
+[<img height="400" src="assets/img/VSM.png">]
+(https://en.wikipedia.org/wiki/Value_stream_mapping)
+
+***
+
+### Queues
+
+<quote>A sequence of messages or jobs held in temporary storage awaiting 
+transmission or processing.</quote>
+<br><br>
+[<img height="400" src="assets/img/queue.png">]
+(http://johanfrisk.com/queue)
+
+***
+
+### User stories
+
+<quote>A description consisting of one or more sentences in the everyday or 
+business language of the end user or user of a system that captures what a user 
+does or needs to do as part of his or her job function.</quote>
+<br><br>
+[<img height="300" src="assets/img/stories.png">]
+(src="assets/img/stories.pdf")
+
+***
+
+### Cost of delay
+
+<quote>The cost of not having the product or service on the market when 
+customers exist and would purchase if they could.</quote>
+<br><br>
+<img height="400" src="assets/img/cod.png">
+
+---
+
+## Lean Management
+<small>How to manage so that flow can happen... </small>
+
+<img height="400" src="assets/img/management.png">
+
+---&vertical
+
+## SCRUM
+<small>A key principle of [scrum]
+(https://en.wikipedia.org/wiki/Scrum_(software_development) is its 
+recognition that during production processes, the customers can change their 
+minds about what they want and need.</small>
+
+<img height="300" src="assets/img/scrum_pic.jpg">
+
+***
+
+### Let's repeat the Scrum method
+
+<img height="500" src="assets/img/scrum_tree.png">
+
+---
+
+# Thanks!
+<small>johan.frisk@facila.eu</small>
