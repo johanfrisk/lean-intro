@@ -293,5 +293,3 @@ minds about what they want and need.</small>
 
 # Thanks!
 <small>johan.frisk@facila.eu</small>
-
-<small>[download mindmap on 'stories](src="assets/img/stories.pdf")</small>
