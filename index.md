@@ -255,7 +255,7 @@ business language of the end user or user of a system that captures what a user
 does or needs to do as part of his or her job function.</quote>
 <br><br>
 [<img height="300" src="assets/img/stories.png">]
-(src="https://github.com/johanfrisk/lean-intro/blob/gh-pages/assets/img/stories.pdf")
+(src="http://johanfrisk.github.io/lean-intro/assets/img/stories.pdf")
 
 ***
 
