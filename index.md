@@ -61,7 +61,7 @@ environments.
 
 ---&vertical
 
-## Traditional projekt planning
+## Traditional project planning
 <small>
 **spoiler: this is not the most efficient way of doing things!**
 <br>
@@ -133,7 +133,7 @@ with reality. We have the impossible dream that plans are time tables.</small>
 ### The secret...
 - independent steel, walls, windows and floors
 - detailed drawings as they were needed
-- exra investments in fittings allowing flexibility
+- extra investments in fittings allowing flexibility
 - daily replanning... using what they had on the day
 - flexible workforce... they worked with <br>resource buffers and not time buffers
 <br><br>
@@ -153,7 +153,7 @@ with reality. We have the impossible dream that plans are time tables.</small>
 1. and from this [bridge in Beijing?]
 (https://www.youtube.com/watch?v=vz_j_BEkVCQ)
 <br><br>
-1. or this [railroad construction]
+1. or this [rail road construction]
 (https://www.youtube.com/watch?v=X6bQIEJ5eIM)
 <br><br>
 [<img height="150" src="assets/img/hotel.png">]
@@ -214,7 +214,7 @@ doing something new is about learning... as fast as possible :-)
 - Planning board: Overview, to do, doing, done
 - Clear roles: Team, Product owner and 'scrum master'
 - Common backlog with user stories
-- Daily standup
+- Daily stand-up
 - Pull system with 'work in progress limits'
 - Iterative process in 2-3 week sprints
 - Planning before sprint and retrospective after
