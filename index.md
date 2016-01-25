@@ -96,7 +96,7 @@ with reality. We have the impossible dream that plans are time tables.</small>
 
 ***
 
-### We assume to much...
+### We assume too much...
 
 1. <small>"We know how everything should be done, right from the start"</small><br>
 1. <small>"The customer will not change their minds"</small><br>
