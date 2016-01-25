@@ -217,7 +217,7 @@ doing something new is about learning... as fast as possible :-)
 - Daily stand-up
 - Pull system with 'work in progress limits'
 - Iterative process in 2-3 week sprints
-- Planning before sprint and retrospective after
+- Planning before sprint and retrospective afterwards
 <br><br>
 <img height="150" src="assets/img/esker.png">
 
