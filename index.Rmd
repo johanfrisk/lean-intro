@@ -53,11 +53,18 @@ environments.
 
 </small>
 
----&vertical
+---
 
 <img height="600" src="assets/img/project_planning.png">
 
 ##### Let's start from the beginning with project planning
+
+---&vertical
+
+## Traditional projekt planning
+<small>
+spoiler: this is not the most efficient way of doing things!
+</small>
 
 ***
 
