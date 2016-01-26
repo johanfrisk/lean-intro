@@ -197,7 +197,8 @@ doing something new is about learning... as fast as possible :-)
 
 ***
 
-<img height="400" src="assets/img/galton.png">
+[<img height="400" src="assets/img/galton.png">]
+(https://www.youtube.com/watch?v=AUSKTk9ENzg)
 ##### independent events have a 'normal' distribution
 
 ***
