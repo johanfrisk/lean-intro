@@ -219,6 +219,7 @@ doing something new is about learning... as fast as possible :-)
 - Planning board: Overview, to do, doing, done
 - Clear roles: Team, Product owner and 'scrum master'
 - Common backlog with user stories
+- Definitions of Done
 - Daily stand-up
 - Pull system with 'work in progress limits'
 - Iterative process in 2-3 week sprints
@@ -271,6 +272,7 @@ select user stories on cost of delay priority<br>
 break down to size that fits in sprint<br>
 separate knowledge gaps from implementation<br>
 let team decide on time estimate
+definition of done
 </small>
 
 ***
