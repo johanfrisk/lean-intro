@@ -78,7 +78,8 @@ environments.
 
 ***
 
-<img height="600" src="assets/img/salesman.png">
+[<img height="600" src="assets/img/salesman.png">]
+(https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ##### Things are complicated...
 
