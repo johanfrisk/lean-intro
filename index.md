@@ -263,6 +263,17 @@ does or needs to do as part of his or her job function.</quote>
 
 ***
 
+<img height="400" src="assets/img/deliverables.png">
+##### Keywords:
+<small>
+select user stories on cost of delay priority<br>
+break down to size that fits in sprint<br>
+separate knowledge gaps from implementation<br>
+let team decide on time estimate
+</small>
+
+***
+
 ### Cost of delay
 
 <quote>The cost of not having the product or service on the market when 
