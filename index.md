@@ -25,14 +25,15 @@ knit        : slidify::knit2slides
 
 ---&vertical
 
-[<img height="600" src="assets/img/agenda.png">]
+[<img height="500" src="assets/img/agenda.png">]
 (assets/img/agenda.pdf)
 
 ##### this is the agenda for a two-hour session
+<small>the A3 is ready to download if you go down...</small>
 
 ***
 
-[<img height="600" src="assets/img/slideTotal.png">]
+[<img height="500" src="assets/img/slideTotal.png">]
 (assets/img/illustrations.pdf)
 
 ##### this is the A3, the figures will be explained in the slides, don't worry :-)
