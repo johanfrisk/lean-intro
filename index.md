@@ -49,7 +49,7 @@ environments.
 <br>
 
 ##### Navigate in these four ways:
-1. If you go *horisonally* to the right you will see the slides in sequence.
+1. If you go *horisontally* to the right you will see the slides in sequence.
 2. If you go *down* on any step you will find additional information and,
 3. if you hit *'esc'* you will see a navigational view of all the slides.
 4. If you press *'s'* anywhere you come to the presenter's window.
@@ -183,7 +183,7 @@ with reality. We have the impossible dream that plans are time tables.</small>
 
 ---&vertical
 
-## Lean/Agile projekt planning
+## Lean/Agile project planning
 <small>
 **spoiler: this is balance act between surprise and peace of mind!**
 <br>
