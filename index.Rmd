@@ -310,4 +310,4 @@ minds about what they want and need.</small>
 ---
 
 # Thanks!
-<small>johan.frisk@facila.eu</small>
+<small>johan.frisk (at) facila.eu</small>
