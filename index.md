@@ -33,6 +33,14 @@ knit        : slidify::knit2slides
 
 ***
 
+[<img height="500" src="assets/img/flow_pull.png">]
+(assets/img/agenda.pdf)
+
+##### it only takes a short pull...
+<small>to the the flow going...</small>
+
+***
+
 [<img height="500" src="assets/img/slideTotal.png">]
 (assets/img/illustrations.pdf)
 
@@ -86,6 +94,13 @@ environments.
 
 ***
 
+[<img height="400" src="assets/img/overfitting.png">]
+(https://en.wikipedia.org/wiki/Overfitting)
+
+##### Too much detail of the past make predictions worse...
+
+***
+
 ### Common traps
 
 1. <small>We think in lists and have a tendency to put actions one after another<br> which 
@@ -128,9 +143,19 @@ with reality. We have the impossible dream that plans are time tables.</small>
 - no storage space
 - no flood lights - could only work days
 - impossible to work during winter
-- delivered on time in 18 months
 <br><br>
 <img height="300" src="assets/img/empire1.jpg">
+
+***
+
+### Key dates
+- September 22, 1929: Demolition started
+- January 22, 1930: Excavation started
+- March 17, 1930: Construction started
+- November 13, 1930: Exterior completed
+- May 1, 1931: Building opened, exactly on<br>time and 18% below budget
+<br><br>
+<img height="200" src="assets/img/empire.png">
 
 ***
 
@@ -140,8 +165,8 @@ with reality. We have the impossible dream that plans are time tables.</small>
 - extra investments in fittings allowing flexibility
 - daily replanning... using what they had on the day
 - flexible workforce... they worked with <br>resource buffers and not time buffers
-<br><br>
-<img height="200" src="assets/img/empire.png">
+<br>
+<img height="300" src="assets/img/empire_state_planning.png">
 
 ***
 
@@ -212,6 +237,21 @@ doing something new is about learning... as fast as possible :-)
 
 <img height="600" src="assets/img/dev_flow.png">
 ##### different size and speed of workpackages... and you have to fail to learn!
+
+***
+
+<img height="600" src="assets/img/laminary.png">
+##### turbulent flows are part of chaos theory
+
+***
+
+<img height="600" src="assets/img/signal.png">
+##### chaotic results can be avoided with management of queues
+
+***
+
+<img height="600" src="assets/img/kgaps.png">
+##### different tools for different jobs!
 
 ***
 
