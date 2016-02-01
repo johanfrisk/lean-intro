@@ -37,7 +37,7 @@ knit        : slidify::knit2slides
 (assets/img/agenda.pdf)
 
 ##### it only takes a short pull...
-<small>to the the flow going...</small>
+<small>to get the flow going...</small>
 
 ***
 
