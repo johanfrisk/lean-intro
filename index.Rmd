@@ -61,6 +61,8 @@ environments.
 2. If you go *down* on any step you will find additional information and,
 3. if you hit *'esc'* you will see a navigational view of all the slides.
 4. If you press *'s'* anywhere you come to the presenter's window.
+5. If you press *'b' or '.'* anywhere the screen goes black.
+6. If you press *'alt' + tap* you enlarge.
 
 </small>
 
