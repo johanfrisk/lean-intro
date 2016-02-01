@@ -6,7 +6,7 @@ job         : Lean Expert
 url: {lib: "."}
 framework: revealjs
 revealjs:
-  theme: Sky #Sky, Night, Default, Moon, solarized
+  theme: sky #Sky, Night, Default, Moon, solarized
   transition: linear #none
   center: "true"
 bootstrap:
