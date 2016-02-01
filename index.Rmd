@@ -324,12 +324,20 @@ customers exist and would purchase if they could.</quote>
 <br><br>
 <img height="400" src="assets/img/cod.png">
 
----
+---&vertical
 
 ## Lean Management
 <small>How to manage so that flow can happen... </small>
 
 <img height="400" src="assets/img/management.png">
+
+***
+
+<small>By Gerald Weinberg in his book Quality Software Management:<br>Systems Thinking</small>
+
+<img width="400" src="assets/img/switching.png">
+<br>
+<img width="400" src="assets/img/switch_loss.png">
 
 ---&vertical
 
