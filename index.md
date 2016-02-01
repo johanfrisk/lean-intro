@@ -6,8 +6,8 @@ job         : Lean Expert
 url: {lib: "."}
 framework: revealjs
 revealjs:
-  theme: solarized
-  #transition: none
+  theme: Sky #Sky, Night, Default, Moon, solarized
+  transition: linear #none
   center: "true"
 bootstrap:
   theme: amelia
@@ -68,9 +68,9 @@ environments.
 
 ---
 
-<img height="600" src="assets/img/project_planning.png">
+<img height="500" src="assets/img/project_planning.png">
 
-##### Let's start from the beginning with project planning
+##### Let's start from the beginning<br>with project planning
 
 ---&vertical
 
@@ -83,13 +83,13 @@ environments.
 
 ***
 
-<img height="600" src="assets/img/gantt.png">
+<img height="500" src="assets/img/gantt.png">
 
-##### Discuss with your neighbour: How do you plan today?
+##### Discuss with your neighbour:<br> How do you plan today?
 
 ***
 
-[<img height="600" src="assets/img/salesman.png">]
+[<img height="500" src="assets/img/salesman.png">]
 (https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 
 ##### Things are complicated...
@@ -99,7 +99,7 @@ environments.
 [<img height="400" src="assets/img/overfitting.png">]
 (https://en.wikipedia.org/wiki/Overfitting)
 
-##### Too much detail of the past make predictions worse...
+##### Too much detail of the past<br>make predictions worse...
 
 ***
 
@@ -172,7 +172,7 @@ with reality. We have the impossible dream that plans are time tables.</small>
 
 ***
 
-<img height="600" src="assets/img/speed.png">
+<img height="500" src="assets/img/speed.png">
 
 ***
 
@@ -196,21 +196,21 @@ with reality. We have the impossible dream that plans are time tables.</small>
 
 ***
 
-<img height="600" src="assets/img/even_flow.png">
+<img height="500" src="assets/img/even_flow.png">
 
 ***
 
-<img height="600" src="assets/img/even_traffic.png">
-##### there is an optimum traffic intensity... what is yours?
+<img height="500" src="assets/img/even_traffic.png">
+##### there is an optimum traffic intensity...<br>what is yours?
 
 ***
 
 ##### let's move on to something more exiting...
-<img height="600" src="assets/img/shining.jpg">
+<img height="500" src="assets/img/shining.jpg">
 
 ---&vertical
 
-## Lean/Agile project planning
+## Lean/Agile project<br>planning
 <small>
 **spoiler: this is balance act between surprise and peace of mind!**
 <br>
@@ -221,7 +221,7 @@ doing something new is about learning... as fast as possible :-)
 
 ***
 
-<img height="600" src="assets/img/flow_prob.png">
+<img height="500" src="assets/img/flow_prob.png">
 
 ***
 
@@ -231,28 +231,28 @@ doing something new is about learning... as fast as possible :-)
 
 ***
 
-[<img height="600" src="assets/img/flips.png">]
+[<img height="500" src="assets/img/flips.png">]
 (https://johanfrisk.shinyapps.io/shiny-coin/)
 ##### even a random walk... is 'normal'...
 
 ***
 
-<img height="600" src="assets/img/dev_flow.png">
-##### different size and speed of workpackages... and you have to fail to learn!
+<img height="500" src="assets/img/dev_flow.png">
+##### different size and speed of workpackages...<br>and you have to fail to learn!
 
 ***
 
-<img height="600" src="assets/img/laminary.png">
+<img height="500" src="assets/img/laminary.png">
 ##### turbulent flows are part of chaos theory
 
 ***
 
-<img height="600" src="assets/img/signal.png">
+<img height="500" src="assets/img/signal.png">
 ##### chaotic results can be avoided with management of queues
 
 ***
 
-<img height="600" src="assets/img/kgaps.png">
+<img height="500" src="assets/img/kgaps.png">
 ##### different tools for different jobs!
 
 ***
